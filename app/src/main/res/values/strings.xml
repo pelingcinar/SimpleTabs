@@ -4,4 +4,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bu_bir_deneme">Bu bir deneme</string>
+    <string name="liste1">Liste1</string>
+    <string name="liste2">Liste2</string>
+    <string name="liste3">Liste3</string>
+    <string name="liste4">Liste4</string>
+    <string name="my_header_title">My header title</string>
 </resources>
